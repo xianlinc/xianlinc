@@ -1,4 +1,7 @@
-### Hi there 👋
+## HEY IM EVAN
+### I'm a third year Computer Science Undergraduate at the National University of Singapore
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=xianlinc&count_private=true&show_icons=true&theme=radical)
 
 <!--
 **xianlinc/xianlinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
