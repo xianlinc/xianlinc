@@ -1,5 +1,5 @@
 ### Hi i'm Evan! 
-I'm a penultimate year Computer Science undergraduate at the National University of Singapore
+I'm a final year Computer Science undergraduate at the National University of Singapore
 
 #### These are the languages I speak:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
