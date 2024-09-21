@@ -1,5 +1,7 @@
-### Hi i'm Evan! 
-I'm a final year Computer Science undergraduate at the National University of Singapore
+### Hey i'm Evan! 
+I'm a Software Engineer @ TikTok ♪
+
+I have an interest in creating data systems that can scale 🚀
 
 #### These are the languages I speak:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -8,12 +10,8 @@ I'm a final year Computer Science undergraduate at the National University of Si
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-#### These are my editors of choice:
-
+#### I like this 👀
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 <!--
 **xianlinc/xianlinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
