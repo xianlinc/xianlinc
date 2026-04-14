@@ -1,7 +1,7 @@
 ### Hey i'm Evan! 
-I'm a Software Engineer @ TikTok ♪
+I'm a Software Engineer
 
-I have an interest in creating data systems that can scale 🚀
+I have an interest in creating systems that can scale 🚀
 
 #### These are the languages I speak:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
